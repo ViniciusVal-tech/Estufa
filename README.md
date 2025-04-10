@@ -8,3 +8,5 @@
 Montar uma estufa de plantas ornamentais é uma ótima forma de garantir um ambiente protegido e ideal para o crescimento saudável das plantas. As suculentas se desenvolvem melhor nesse tipo de espaço, com luz, calor e umidade controlados. Com esses cuidados, elas crescem mais fortes, bonitas e livres de doenças.
 Estaquia é um método de reprodução de plantas onde se utiliza partes como galhos ou folhas para gerar novas mudas. É uma forma rápida e eficiente de clonar a planta-mãe.
 Fitossanitário se refere aos cuidados para proteger as plantas contra pragas e doenças. Garante a saúde das plantas durante o cultivo e comercialização.
+
+![Montagem](
